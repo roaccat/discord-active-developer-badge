@@ -1,2 +1,7 @@
-# discord-active-developer-badge
-discord-active-developer-badge
+Handler for discord.js version 13
+
+`npm install` - install all required dependancies
+
+`node index.js` - start the project
+
+Enjoy it.
