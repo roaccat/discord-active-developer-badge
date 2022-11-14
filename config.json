@@ -1,6 +1,6 @@
 {
-    "token": "NzIyODAxMjYzNzIwMjY3ODQ2.GOwjh8.7d5V8J6_alDktjbfsweSY8RXmgddTalbcXhTrM",
+    "token": "Your Token",
     "prefix": "!",
-    "clientId": "722801263720267846",
-	"guildId": "1041401892980404265"
+    "clientId": "Your Bot Client ID",
+    "guildId": "Your Development Server ID"
 }
