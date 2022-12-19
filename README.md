@@ -13,6 +13,8 @@ Discord Active Developer Badge Bot for discord.js version 14
 `node removeall-commands.js` - delete all slash commands 
 `node index.js` - start the project
 
+Available slash commands, `/ping` & `/server` & `/user`
+
 Discord Active Developer Badge Claim Link: https://discord.com/developers/active-developer
 
 Enjoy it.
