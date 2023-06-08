@@ -1,4 +1,5 @@
-Discord Active Developer Badge Bot for discord.js version 14
+# Discord Active Developer Badge Bot for discord.js version 14
+This discord bot all built by me using Node.js with Discord.js module. 
 
 1) Download all files and gather up on one file
 2) Install NodeJS - https://nodejs.org/en/
@@ -16,5 +17,3 @@ Discord Active Developer Badge Bot for discord.js version 14
 Available slash commands, `/ping` & `/server` & `/user`
 
 Discord Active Developer Badge Claim Link: https://discord.com/developers/active-developer
-
-Enjoy it.
