@@ -1,0 +1,15 @@
+{
+  "name": "discord-active-developer-badge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0-only",
+  "description": "Discord Bot to Obtain the Active Developer Badge",
+  "dependencies": {
+    "discord.js": "^14.20.0"
+  }
+}
