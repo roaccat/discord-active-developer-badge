@@ -8,7 +8,7 @@
   
 ## How To Use
 1) Download all files and gather up on one file
-2) Install NodeJS - https://nodejs.org/en/
+2) Install <a href="https://nodejs.org/en/">NodeJS</a>
 3) Open CMD or PowerShell on file
 4) Write `npm i discord.js` then press enter
 5) Write `npm install` then press enter
@@ -32,7 +32,7 @@ Here are some common questions related to the values you need to provide in your
   <br/>
   Go to the <a href="https://discord.com/developers/applications">Discord Developer Portal</a> and select the bot you've created. From the left-hand sidebar, click on the <b>Bot</b> section. Under the <b>Token</b> section, click <b>Reset Token</b> to generate a new token. You can only view the token <b>once</b> after generating it. If you lose it, you'll need to reset it again.<br/><br/>
   <b>⚠️ Never share your bot token with anyone.</b><br/><br/>
-  <img src='https://github.com/roaccat/discord-active-developer-badge/blob/main/img/bot-token.gif' alt='Bot Token GIF'></img>
+  <img src="https://github.com/roaccat/discord-active-developer-badge/blob/main/img/bot-token.gif" alt="Bot Token GIF"></img>
 </details>
 <details>
   <summary><b>What is a prefix?</b></summary>
@@ -44,13 +44,13 @@ Here are some common questions related to the values you need to provide in your
   <br/>
   Go to the <a href="https://discord.com/developers/applications">Discord Developer Portal</a> and select the bot you've created. From the left-hand sidebar, click on the <b>OAuth2</b> section. Under the <b>Client information</b> section you will find.<br/><br/>
   <b>⚠️ Never share your client ID with anyone.</b><br/><br/>
-  <img src='https://github.com/roaccat/discord-active-developer-badge/blob/main/img/client-id.gif' alt='Client ID GIF'></img>
+  <img src="https://github.com/roaccat/discord-active-developer-badge/blob/main/img/client-id.gif" alt="Client ID GIF"></img>
 </details>
 <details>
   <summary><b>How do I find my guild (server) ID?</b></summary>
   <br/>
   Enable Developer Mode in your Discord settings. Then, right-click your server’s name and select "Copy Server ID".<br/><br/>
-  <img src='https://github.com/roaccat/discord-active-developer-badge/blob/main/img/guild-id.gif' alt='Guild ID GIF'></img>
+  <img src="https://github.com/roaccat/discord-active-developer-badge/blob/main/img/guild-id.gif" alt="Guild ID GIF"></img>
 </details>
 
 ### How do I claim Active Developer Badge?
